@@ -64,6 +64,3 @@ mxbai-embed-large:latest    468836162de7    669 MB    4 days ago
 
 ```
 
-# GitHub
-
-Clone project [https://github.je-labs.com/oleg-tsibulevskiy/AI-Agent-Workshop](https://github.je-labs.com/oleg-tsibulevskiy/AI-Agent-Workshop)
